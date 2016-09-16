@@ -10,7 +10,7 @@ Jadi vcc adalah salah satu alternatif yang banyak digunakan baik untuk keperluan
 
   3. Harga virtual credit card tidak murah dan tidak juga mahal, tapi walaupun begitu uang ada tidak boleh sia-sia begitu saja karena tertipu oleh penjual yang tidak terpercaya. Penulis pernah tertipu dengan salah satu penjual vcc di forum kaskus. Pada saat itu penjual vcc penipu tersebut menjual vcc dengan harga 50rb rupiah, setelah uangnya ditransfer data vcc sampai sekarang tidak pernah diberikan. 
 
-Berikut ciri-ciri penjual vcc yang terpercaya 
+### Berikut ciri-ciri penjual vcc yang terpercaya 
 
   1. Biasanya penjual tersebut sudah lama berkecimpung membantu pengguna Paypal baru untuk verifikasi akun PayPal nya. 
 
@@ -24,4 +24,4 @@ Berikut ciri-ciri penjual vcc yang terpercaya
 
 Oke, segitu dulu cara menemukan penjual vcc untuk verifikasi akun PayPal yang terpercaya. Salah satu penjual vcc yang layak anda coba adalah di [vccgan.com][1]
 
-[1]http://vccgan.com
+[1]: http://vccgan.com
